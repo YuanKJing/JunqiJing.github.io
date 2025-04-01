@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 荆浚淇
+title: Junqi Jing
 
 # Name pronunciation (optional)
-name_pronunciation: Junqi Jing
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Junqi

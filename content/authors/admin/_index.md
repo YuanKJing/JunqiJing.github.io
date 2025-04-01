@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 荆浚淇
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Junqi Jing
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Junqi
+last_name: Jing
 
 # Status emoji
 status:
@@ -20,93 +20,40 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: CS undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Harbin institute of technology
+    url: https://www.hitwh.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '2023210913@stu.hit.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/YuanKJing
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=EFVJ4AkAAAAJ&hl=en
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Embodied AI
+  - Diffusion/diffusion policy
+  - MLLM/RL/VLA
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor's degree Software Engineering
+    institution: Harbin institute of technology(Weihai)
+    date_start: 2023-08-25
+    date_end: 2027
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      While in school, I joined the Transmedia Intelligence Institute lab to conduct diffusion and embodied ai related research Supervised by [Prof Zhaobo qi](https://scholar.google.com.hk/citations?user=QZ8URKAAAAAJ&hl=zh-CN) and [Prof Weigang Zhang](https://scholar.google.com/citations?user=4bm5wYUAAAAJ&hl=en). Presented papers at ICLR2025 conferences
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      text: 'MTID'
+      url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EFVJ4AkAAAAJ&citation_for_view=EFVJ4AkAAAAJ:Tyk-4Ss8FVUC'
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -116,17 +63,15 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: pytorch
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: git
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+
     items:
       - name: Hiking
         description: ''
@@ -183,4 +128,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Junqi Jing, an undergraduate student in Software Engineering at Harbin Institute of Technology (HIT). My research interests focus on Embodied AI, diffusion model, and Reinforcement Learning (RL), with an emphasis on physical simulation and intelligent interaction for heterogeneous objects. I previously participated in research at Westlake University Milab,I am glad to study under Donglin Wang  and I am currently working on AAAI 2026 submission related to VLA. I have received several awards, including Second Prize in the National Mathematical Modeling Contest and Bronze Medal in the ACM Freshmen Programming Contest.
+
+In the Spring 2025 semester, I will be an exchange student at POSTECH, working with Prof. Kwang In Kim.

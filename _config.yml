@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Welcome to Junqi(Junairi) Jing's Home Page"
+description              : "My name is Junqi Jing (Chinese: 荆浚淇), and I am currently an undergraduate student at Harbin Institute of Technology. I have previously visited the MiLab at Westlake University, where I had the opportunity to learn from Professor Donglin Wang. In July 2025, I will visit Professor Kai Zhang’s lab at Nanjing University. In the upcoming fall semester, I will join POSTECH (Pohang University of Science and Technology), South Korea, as an exchange student and conduct research in the lab of Professor Kwang In Kim. "
+repository               : "JunqiJing.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get` google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Junqi Jing"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Harbin institute of technology"
+  location         : "Weihai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=EFVJ4AkAAAAJ&hl=zh-CN"
+  email            : "jqjing@stu.hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
